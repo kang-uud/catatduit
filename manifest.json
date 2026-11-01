@@ -1,0 +1,17 @@
+{
+  "name": "Catat Do-It",
+  "short_name": "Catat Do-It",
+  "description": "Catat keuangan, eksekusi impianmu. Sirkulasi keuangan mandiri dengan Google Sheets.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1F3B2C",
+  "theme_color": "#1F3B2C",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
